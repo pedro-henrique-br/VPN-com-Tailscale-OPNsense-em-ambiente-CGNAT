@@ -1,0 +1,1 @@
+# VPN-com-Tailscale-OPNsense-em-ambiente-CGNAT
